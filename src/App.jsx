@@ -14,9 +14,15 @@ export default function LaPampaFinal() {
             <span className="text-2xl font-black tracking-[0.3em] text-[#c29c6d] leading-none">LA PAMPA</span>
             <span className="text-[9px] tracking-[0.5em] text-white/40 uppercase mt-1">Authentic Argentine Grill</span>
           </div>
-          <button className="bg-[#c29c6d] text-black px-6 py-2.5 text-[10px] font-black uppercase tracking-tighter hover:bg-white transition duration-500 shadow-lg shadow-[#c29c6d]/10">
-            Reservar Mesa
-          </button>
+          <a 
+  href="https://w.app/lkgjii" 
+  target="_blank" 
+  rel="noopener noreferrer"
+>
+  <button className="bg-[#c29c6d] text-black px-6 py-2.5 text-[10px] font-black uppercase tracking-tighter hover:bg-white transition duration-500 shadow-lg shadow-[#c29c6d]/10">
+    Reservar Mesa
+  </button>
+</a>
         </div>
       </nav>
 
@@ -155,7 +161,7 @@ export default function LaPampaFinal() {
 
       {/* 8. BOTÓN WHATSAPP VERDE FLOTANTE */}
       <a 
-        href="https://wa.me/tu-numero-aqui" 
+        href="https://w.app/lkgjii" 
         target="_blank" 
         rel="noopener noreferrer"
         className="fixed bottom-8 right-8 bg-[#25d366] text-white p-4 rounded-full shadow-[0_10px_30px_rgba(37,211,102,0.4)] hover:scale-110 transition-all z-50 border-2 border-white/20 flex items-center justify-center"

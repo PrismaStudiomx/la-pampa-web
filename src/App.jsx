@@ -71,10 +71,10 @@ export default function LaPampaFinal() {
       {/* 4. GALERÍA BOUTIQUE */}
       <section className="py-10 px-6">
         <div className="max-w-7xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-4">
-          <img src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800" className="w-full h-48 object-cover grayscale hover:grayscale-0 transition duration-700 rounded-sm" alt="Cocktail" />
-          <img src="https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=800" className="w-full h-64 object-cover grayscale hover:grayscale-0 transition duration-700 rounded-sm mt-8 md:mt-12" alt="Interior" />
-          <img src="https://images.pexels.com/photos/35437138/pexels-photo-35437138.png" className="w-full h-48 object-cover grayscale hover:grayscale-0 transition duration-700 rounded-sm" alt="Parrilla" />
-          <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=800" className="w-full h-64 object-cover grayscale hover:grayscale-0 transition duration-700 rounded-sm mt-8 md:mt-12" alt="Cena" />
+          <img src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800" className="w-full h-48 object-cover md: grayscale hover: md: grayscale-0 transition duration-700 rounded-sm" alt="Cocktail" />
+          <img src="https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=800" className="w-full h-64 object-cover md: grayscale hover: md: grayscale-0 transition duration-700 rounded-sm mt-8 md:mt-12" alt="Interior" />
+          <img src="https://images.pexels.com/photos/35437138/pexels-photo-35437138.png" className="w-full h-48 object-cover md: grayscale hover: md: grayscale-0 transition duration-700 rounded-sm" alt="Parrilla" />
+          <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=800" className="w-full h-64 object-cover md: grayscale hover: md:grayscale-0 transition duration-700 rounded-sm mt-8 md:mt-12" alt="Cena" />
         </div>
       </section>
 
